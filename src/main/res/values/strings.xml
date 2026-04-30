@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Seminar Registration App</string>
+
+    <!-- Seminar list -->
+    <string-array name="daftar_seminar">
+        <item>Pilih Seminar...</item>
+        <item>Seminar Kecerdasan Buatan &amp; Machine Learning</item>
+        <item>Seminar Keamanan Siber &amp; Ethical Hacking</item>
+        <item>Seminar Pengembangan Aplikasi Mobile</item>
+        <item>Seminar Cloud Computing &amp; DevOps</item>
+        <item>Seminar Internet of Things (IoT)</item>
+        <item>Seminar Big Data &amp; Data Science</item>
+    </string-array>
+</resources>
